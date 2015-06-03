@@ -22,8 +22,6 @@ SET time_zone = "+00:00";
 CREATE DATABASE IF NOT EXISTS `web` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
 USE `web`;
 
--- --------------------------------------------------------
-
 --
 -- Table structure for table `berita`
 --
